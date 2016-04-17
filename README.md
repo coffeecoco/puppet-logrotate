@@ -1,4 +1,4 @@
-# Logrotate module for Puppet
+## Logrotate module for Puppet
 
 [![Build Status](https://secure.travis-ci.org/rodjek/puppet-logrotate.png)](http://travis-ci.org/rodjek/puppet-logrotate)
 
